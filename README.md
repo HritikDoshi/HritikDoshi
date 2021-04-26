@@ -14,13 +14,13 @@ You can click the Preview link to take a look at your changes.
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png ( Facebook icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png ([Github]https://github.com/HritikDoshi)
+[1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
+[2.1]: https://i.ytimg.com/vi/LU9zpCZFPJQ/maxresdefault.jpg ( Facebook )
+[6.1]: http://i.imgur.com/0o48UoR.png (Github )
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[6]: http://www.github.com/carlsednaoui
+[1]: https://twitter.com/HritikDoshi?s=09
+[2]: https://www.linkedin.com/in/hritik-doshi-a010951a7
+[6]: https://github.com/HritikDoshi
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HritikDoshi)
