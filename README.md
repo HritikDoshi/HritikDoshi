@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [![alt text][6.1]][6]
 
 [1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
-[2.1]: https://www.digihooked.com/wp-content/uploads/2019/11/Instagram-Logo-980x567-1-480x278.jpg ( Facebook )
+[2.1]: https://imgur.com/gallery/qASXlzX ( Facebook )
 [6.1]: http://i.imgur.com/0o48UoR.png (Github )
 
 [1]: https://twitter.com/HritikDoshi?s=09
