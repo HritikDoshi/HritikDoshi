@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
-[1.1]: http://i.imgur.com/tXSoThF.png [Twitter](https://twitter.com/HritikDoshi?s=09)
-[2.1]: http://i.imgur.com/P3YfQoD.png [Facebook]( icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png [Github](https://github.com/HritikDoshi)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png ( Facebook icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png ([Github]https://github.com/HritikDoshi)
 
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui
